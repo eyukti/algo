@@ -1,2 +1,2 @@
 # algo
-All data structure and algorithm solutions
+All data structure and algorithm solutions!
