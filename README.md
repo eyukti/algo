@@ -1,2 +1,3 @@
 # algo
-All data structure and algorithm solutions
+All Data Structure & Algorithm solutions.
+This is second version of readme.
